@@ -1,1 +1,1 @@
-# chaenicius
+# jeongbo-ps-study
